@@ -30,6 +30,10 @@ JND28 Bot is a fully functional Telegram game bot system integrated with Canadia
 - **Agent Commission System** - Complete invitation rebate and cashback mechanism
 - **Risk Control System** - Supports limit control, betting close management, and permission verification
 
+## Admin Screenshot
+
+![Admin Panel](./admin.png)
+
 ## Tech Stack
 
 ### Backend
@@ -268,7 +272,7 @@ Access URL: `http://your-server:5898/admin/`
 
 Default credentials:
 - Username: admin
-- Password: admin123
+- Password: 123456
 
 **Important**: Change the default password immediately after first login.
 
