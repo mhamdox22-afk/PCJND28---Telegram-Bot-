@@ -8,7 +8,7 @@
 
 **This project may not be perfect in details, and some details may need optimization during actual use.**
 
-**If you find BUG or have suggestions, please contact TG** ** `https://t.me/jnd28admin` **
+**If you find BUG or have suggestions, please contact TG** [@jnd28admin](https://t.me/jnd28admin)
 
 **Services available: Various program feature development | Program deployment | Program creation | Custom development based on existing programs**
 
